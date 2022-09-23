@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "test-pwa-73f84": {
+      "hosting": {
+        "test-ng-pwa": [
+          "test-pwa-73f84"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "test-pwa-73f84"
+  }
+}
